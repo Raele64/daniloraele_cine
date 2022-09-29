@@ -1,11 +1,8 @@
-# Movie-seat-project
-Spring boot, Movie seat selection mechanism, Spring Data Jpa, Thymeleaf,
+# DaniloraeleCINE
+Spring boot, Spring Data Jpa, Thymeleaf.
 
-just clone the repo
-$git clone url..
+Apenas clone o projeto na sua máquina, instale o banco de dados MySQL e rode o projeto SpringBoot com o IntelliJ.
 
-open in eclipse or intellij
+Trabalho requisitado pela Universidade Cruzeiro do Sul - Curso Análise e Desinvolvimento de Sistemas
 
-Please update the repo and change Jpa configuration acording to your system before run
-And enjoy repo
-
+Projeto Integrado de Análise e Desenvolvimento de Sistemas.
